@@ -79,7 +79,7 @@
 
 ### 🌐 Connect With Me:
 <div align="center">
-<a href="https://linkedin.com/in/www.linkedin.com/in/srinivasu-fullstack-dev" target="_blank">
+<a href="https://www.linkedin.com/in/srinivasu-fullstack-dev" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:dhupatisrinivasu@gmail.com">
