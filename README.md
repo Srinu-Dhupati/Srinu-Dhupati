@@ -1,4 +1,6 @@
-<!-- Animated Header -->
+<!-- Animated Header --> 
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C0FF,100:0078FF&height=200&section=header&text=Hey+👋,+I'm+Srinu+Dhupati!&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 </p>
