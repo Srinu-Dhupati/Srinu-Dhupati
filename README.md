@@ -39,7 +39,7 @@
 
 ---
 
-### ⚡ Animated Developer GIF:
+
 <p align="center">
   <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="400" alt="coding animation"/>
 </p>
